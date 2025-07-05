@@ -232,8 +232,8 @@ curl -X GET "http://localhost:8000/atletas/f7350a7c-5358-4d23-ba1f-1944564b25c7"
 ## 👨‍💻 Autor
 
 **Lucas Tony**
-- GitHub: [@seu-usuario](https://github.com/LucasTNM/)
-- LinkedIn: [Seu Nome](https://www.linkedin.com/in/lucas-tony-6899b6336/)
+- GitHub: [@LucasTNM](https://github.com/LucasTNM/)
+- LinkedIn: [Lucas Tony](https://www.linkedin.com/in/lucas-tony-6899b6336/)
 
 ## 🙏 Agradecimentos
 

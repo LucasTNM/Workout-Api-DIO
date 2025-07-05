@@ -229,15 +229,11 @@ curl -X GET "http://localhost:8000/atletas/f7350a7c-5358-4d23-ba1f-1944564b25c7"
 4. Push para a branch (`git push origin feature/AmazingFeature`)
 5. Abra um Pull Request
 
-## 📝 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
 ## 👨‍💻 Autor
 
-**Seu Nome**
-- GitHub: [@seu-usuario](https://github.com/seu-usuario)
-- LinkedIn: [Seu Nome](https://linkedin.com/in/seu-perfil)
+**Lucas Tony**
+- GitHub: [@seu-usuario](https://github.com/LucasTNM/)
+- LinkedIn: [Seu Nome](https://www.linkedin.com/in/lucas-tony-6899b6336/)
 
 ## 🙏 Agradecimentos
 
